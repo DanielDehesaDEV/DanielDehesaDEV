@@ -92,9 +92,17 @@ Mi formación combina titulaciones oficiales en informática y desarrollo, junto
 
 ## 📈 Estadísticas de GitHub
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielDehesaDEV&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDehesaDEV&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanielDehesaDEV&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielDehesaDEV&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDehesaDEV&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielDehesaDEV&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
