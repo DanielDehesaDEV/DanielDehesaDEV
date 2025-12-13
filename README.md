@@ -96,3 +96,13 @@ Mi formación combina titulaciones oficiales en informática y desarrollo, junto
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDehesaDEV&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanielDehesaDEV&theme=radical)
 
+---
+
+## 🌐 Contacto
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/danieldm93/)  
+- 📧 Email: **daniel.dehesa.dev@gmail.com**
+
+---
+
+✨ *Mi objetivo es seguir creciendo como desarrollador full stack, aportando soluciones innovadoras y profesionales en el mundo del software y la informática.*
