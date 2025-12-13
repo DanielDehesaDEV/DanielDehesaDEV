@@ -74,7 +74,7 @@ Power Query, Excel, Google Sheets
 
 Aquí muestro algunos de mis repositorios más relevantes:
 
-- 🔹 [Full Stack Demo Projects](https://github.com/danieldm93/fullstack-demos)  
+- 🔹 [Full Stack Demo Projects](https://github.com/DanielDehesaDEV/fullstack-demos)  
   Proyectos de práctica del máster en **Conquer Blocks**, incluyendo **React, Node.js, Django y PostgreSQL**.
 
 ---
