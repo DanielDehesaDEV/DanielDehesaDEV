@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/DanielDehesaDEV/DanielDehesaDEV/blob/main/assets/banner.png" alt="Daniel Dehesa – Full Stack Developer" />
+  <img src="[https://github.com/DanielDehesaDEV/DanielDehesaDEV/blob/main/assets/banner.png](https://github.com/DanielDehesaDEV/DanielDehesaDEV/blob/main/BannerGithub.png)?raw
+    =true" alt="Daniel Dehesa – Full Stack Developer" />
 </p>
 
 # 👋 ¡Hola! Soy Daniel
