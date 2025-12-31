@@ -93,15 +93,16 @@ Mi formación combina titulaciones oficiales en informática y desarrollo, junto
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielDehesaDEV&theme=radical" alt="Perfil" />
-</p>
-
-<p align="center">  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanielDehesaDEV&theme=radical" alt="Lenguajes" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielDehesaDEV&theme=radical" alt="Perfil" style="width: 100%; max-width: 800px;" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanielDehesaDEV&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanielDehesaDEV&theme=radical" width="400px" alt="Lenguajes" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanielDehesaDEV&theme=radical" width="400px" alt="Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielDehesaDEV&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
