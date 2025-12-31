@@ -19,6 +19,7 @@ Mi formación combina titulaciones oficiales en informática y desarrollo, junto
 - 🎓 **Desarrollo de Aplicaciones Multiplataforma (DAM)** – 1 año y medio
 - 🎓 **Especialidad Formativa: Desarrollo de Aplicaciones Web y Móviles** – Nivel 3 (756 horas)
 - 🎓 **Certificado de Profesionalidad IFCD0210: Desarrollo de Aplicaciones con Tecnologías Web** – Nivel 3 (510 horas)
+- 🎓 **Certificado de ProfesionalidadIFCT185PO - ADMINISTRACIÓN DE SERVIDORES LINUX - (100 horas)
 - 🎓 **Máster Full Stack Developer – Conquer Blocks**  
   Contenidos: HTML, CSS, JavaScript, React (JS/TS), Angular, Vue, Astro, Node.js, Express, Django, SQL/MySQL/PostgreSQL, WordPress, Java (Spring), Rust, Go, despliegue en servidores y cloud, SEO, metodologías ágiles y soft skills.
 
