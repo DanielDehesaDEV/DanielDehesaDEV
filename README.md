@@ -109,17 +109,36 @@ Mi formación combina titulaciones oficiales en informática y desarrollo, junto
 
 ---
 
+---
+
 ## 🌐 Contacto y CV
 
-- 💼 <a href="https://www.linkedin.com/in/danieldm93/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-- 📧 <a href="mailto:daniel.dehesa.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-- 📄 <a href="https://github.com/DanielDehesaDEV/DanielDehesaDEV/blob/main/CV_Daniel_Dehesa.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Descargar_CV-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV" />
-  </a>
+<table>
+  <tr>
+    <td>💼</td>
+    <td>
+      <a href="https://www.linkedin.com/in/danieldm93/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>📧</td>
+    <td>
+      <a href="mailto:daniel.dehesa.dev@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>📄</td>
+    <td>
+      <a href="https://github.com/DanielDehesaDEV/DanielDehesaDEV/blob/main/CV_Daniel_Dehesa.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/Descargar_CV-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   ✨ <i>Disponible para nuevas oportunidades y proyectos innovadores.</i>
