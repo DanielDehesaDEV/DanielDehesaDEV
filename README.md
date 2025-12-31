@@ -104,6 +104,11 @@ Mi formación combina titulaciones oficiales en informática y desarrollo, junto
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielDehesaDEV&theme=radical" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielDehesaDEV&theme=radical" alt="Perfil" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanielDehesaDEV&theme=radical" alt="Lenguajes" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanielDehesaDEV&theme=radical" alt="Stats" />
+</p>
 
 ---
 
