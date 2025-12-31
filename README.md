@@ -104,23 +104,6 @@ Mi formación combina titulaciones oficiales en informática y desarrollo, junto
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielDehesaDEV&theme=radical" alt="GitHub Streak" />
 </p>
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=DanielDehesaDEV&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  </a>
-  
-  <br/>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDehesaDEV&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
-
-  <br/>
-
-  <a href="https://github.com/streak-stats/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielDehesaDEV&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
 
 ---
 
