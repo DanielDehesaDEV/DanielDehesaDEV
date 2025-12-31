@@ -9,6 +9,8 @@
 Soy un programador apasionado por crear aplicaciones web y móviles con interfaces modernas, escalables y profesionales.  
 Mi formación combina titulaciones oficiales en informática y desarrollo, junto con experiencia práctica en proyectos reales y un máster intensivo en desarrollo full stack.
 
+![Contratable](https://img.shields.io/badge/CONTRATABLE-SI-brightgreen?style=flat-square)
+
 ---
 
 ## 📚 Formación Académica y Certificaciones
